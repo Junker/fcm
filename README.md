@@ -2,6 +2,10 @@
 
 Common Lisp client for FCM - Firebase Cloud Messaging.
 
+## Warning
+
+This software is still ALPHA quality. The APIs will be likely to change.
+
 ## Installation
 
 This system can be installed from [UltraLisp](https://ultralisp.org/) like this:
